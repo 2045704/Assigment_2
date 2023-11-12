@@ -1,0 +1,8 @@
+splc (DONE)
+grph (DONE)
+tree (DONE)
+long (DONE)
+corr (DONE)
+inod (DONE)
+nwck (DONE)
+nkew (DONE)
